@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainAppForm", "MainAppForm\MainAppForm.csproj", "{36AD16CE-3C79-4F3F-9C87-EE150C681DF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSimulator", "PrinterSimulator\PrinterSimulator.csproj", "{247D46AB-20EE-4806-9157-57395138D37C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36AD16CE-3C79-4F3F-9C87-EE150C681DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36AD16CE-3C79-4F3F-9C87-EE150C681DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36AD16CE-3C79-4F3F-9C87-EE150C681DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247D46AB-20EE-4806-9157-57395138D37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247D46AB-20EE-4806-9157-57395138D37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247D46AB-20EE-4806-9157-57395138D37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247D46AB-20EE-4806-9157-57395138D37C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
